@@ -39,3 +39,21 @@ nav li {
     list-style: none;
     margin-left: 50px;
 }
+
+/* banner styles */
+
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 226px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.banner-sub-title {
+    font-weight: 600;
+    font-size: 45px;
+}
