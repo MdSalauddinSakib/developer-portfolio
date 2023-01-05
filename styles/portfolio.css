@@ -80,11 +80,14 @@ main {
     margin: 0 auto;
 }
 
+.section {
+    margin-top: 130px;
+}
+
 /* about section styles */
 
 .about {
     text-align: center;
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -121,9 +124,7 @@ main {
 
 /* what i do styles */
 
-.what-i-do {
-    margin-top: 130px;
-}
+
 
 .skills-container {
     display: flex;
